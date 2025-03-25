@@ -1,4 +1,4 @@
-# 📊 TP 03: Histograms in Image Processing  
+# 📊 TP 03: Histograms in Image Processing  BY Dr Guessoum
 
 ## 🎯 Objectives  
 - Display the brightness and contrast of an image.  
